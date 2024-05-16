@@ -1,2 +1,2 @@
 # LandingPage
-Landing Page
+Files for Django-based landing page.
